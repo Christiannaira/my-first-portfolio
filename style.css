@@ -10,10 +10,12 @@
 nav {
     z-index: 10001;
     position: fixed;
+    top: 0;
     width: 100%;
     text-align: center;
     padding: 2rem 1rem;
     background-color: #fff;
+    transition: 0.45s;
 }
 
 nav a {
